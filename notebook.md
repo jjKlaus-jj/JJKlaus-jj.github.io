@@ -15,6 +15,29 @@
 - Definition:
 - Why is it useful
 
+---
+
+### Key Terms and Definitions
+
+| Term             | Definition                                      | Example / Notes                          |
+|------------------|--------------------------------------------------|-------------------------------------------|
+| Widget           |                                                  |                                           |
+| MaterialApp      |                                                  |                                           |
+| Scaffold         |                                                  |                                           |
+| StatelessWidget  |                                                  |                                           |
+| StatefulWidget   |                                                  |                                           |
+| Navigator        |                                                  |                                           |
+| AppBar           |                                                  |                                           |
+| Column           |                                                  |                                           |
+| Row              |                                                  |                                           |
+| Container        |                                                  |                                           |
+| Text             |                                                  |                                           |
+| Image.network    |                                                  |                                           |
+                      
+| Padding          |                                                  |                                           |  
+
+| Center           |                                                  |                                           |
+
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|------------|
@@ -208,7 +231,5 @@ When to use: Add references or side notes without cluttering the page.
 This concept is related to object-oriented programming.[^1]
 
 [^1]: See "Objects and Classes" in your textbook.
-
-  n                                        
 
       
